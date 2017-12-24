@@ -10,4 +10,4 @@ For more information on crypto, as well as an immediately useable, binary versio
 see https://bitcoin.org/en/download, or read the original whitepaper : https://bitcoincore.org/bitcoin.pdf
 see https://litecoin.org, or go to https://github.com/litecoin-project
 https://ethereum.org/, or got to http://www.ethdocs.org/en/latest/ or browse source code on GitHub : https://github.com/ethereum/
-Mamadou MBAYE
+            Mamadou MBAYE
